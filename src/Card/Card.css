@@ -1,0 +1,21 @@
+.Card {
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    display: inline-block;
+    margin:5px;
+    padding:15px;
+    width: 100px;
+    height:150px;
+    text-align:center;
+    vertical-align: top;
+}
+
+.Card h5 {
+    margin-top: 0px;
+}
+
+.Card img {
+    /* height:100%; */
+    width: 100%;
+}
