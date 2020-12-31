@@ -1,0 +1,10 @@
+.header {
+  background: steelblue;
+  padding: 10px;
+}
+
+.header span {
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
